@@ -4,52 +4,33 @@
         "id": "1",
         "question": "What is the capital of Kenya?",
         "correct_answer": "Nairobi",
-        "incorrect_answers": [
-          "Kampala",
-          "Dodoma",
-          "Addis-Abeba"
-        ]
+        "incorrect_answers": ["Kampala", "Dodoma", "Addis-Abeba"]
       },
       {
         "id": "2",
         "question": "Which language is used for styling web pages?",
         "correct_answer": "CSS",
-        "incorrect_answers": [
-          "HTML",
-          "JavaScript",
-          "Python"
-        ]
+        "incorrect_answers": ["HTML", "JavaScript", "Python"]
       },
       {
         "id": "3",
         "question": "How many continents are there on Earth?",
         "correct_answer": "7",
-        "incorrect_answers": [
-          "5",
-          "6",
-          "8"
-        ]
+        "incorrect_answers": ["5", "6", "8"]
       },
       {
         "id": "4",
         "question": "How many days are there in a year?",
         "correct_answer": "365",
-        "incorrect_answers": [
-          "372",
-          "400",
-          "362"
-        ]
+        "incorrect_answers": ["372", "400", "362"]
       },
       {
         "id": "5",
         "question": "What is the most spoken language in the world?",
         "correct_answer": "Mandarin",
-        "incorrect_answers": [
-          "French",
-          "English",
-          "Swahili"
-        ]
+        "incorrect_answers": ["French", "English", "Swahili"]
       }
-    ]
-    
+    ],
+    "scores": []
   }
+  
